@@ -2,7 +2,6 @@
 
 🎓 **Second-year student at Northeastern University**  
 💻 **Majoring in Computer Science & Business**
-❤️ Interests include UI/UX, marketing, and product management
 
 ---
 
@@ -13,7 +12,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - Exploring new tech stacks and frameworks
 - Developing projects that blend computer science with business insights
@@ -21,7 +20,9 @@
 
 ---
 
-## 📚 Hobbies & Interests
+## 🩷 Hobbies & Interests
+
+Interests include UI/UX, marketing, and product management
 
 - Reading 📖
 - Running 🏃‍♀️
