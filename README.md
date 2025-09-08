@@ -38,6 +38,7 @@ Interests include UI/UX, marketing, and product management
 
 - [LinkedIn](https://linkedin.com/in/jessicammeng)
 - [Portfolio](https://jessmengg.netlify.app/)
+- [Email](jessicammeng@gmail.com)
 
 ---
 
