@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Jessica Meng
 
+I'm a second-year Computer Science & Business student @ Northeastern University. 
+My interests include UI/UX design, marketing, product management, reading, and running!
+
+I am currently looking for a SWE co-op from January to August 2026, preferably in Asia.
 <!--
 **jessmengg/jessmengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
