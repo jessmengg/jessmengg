@@ -1,20 +1,51 @@
-## Hi there 👋 I'm Jessica Meng
+# Hi, I'm Jess Meng! 👋
 
-I'm a second-year Computer Science & Business student @ Northeastern University. 
-My interests include UI/UX design, marketing, product management, reading, and running!
+🎓 **Second-year Student at Northeastern University**  
+💻 **Majoring in Computer Science & Business**
 
-I am currently looking for a SWE co-op from January to August 2026, preferably in Asia.
-<!--
-**jessmengg/jessmengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, JavaScript, Python, Kotlin, HTML, CSS
+- **Frameworks & Tools:** React.js, Node.js
+
+---
+
+## 🌱 Currently Learning
+
+- Exploring new tech stacks and frameworks
+- Developing projects that blend computer science with business insights
+- SQL and databases
+
+---
+
+## 📚 Hobbies & Interests
+
+- Reading 📖
+- Running 🏃‍♀️
+- Eating 🍜 (or drinking matcha!!!)
+- Languages:  
+  - English (Fluent)  
+  - Chinese (Working Proficiency)  
+  - Spanish (Limited Working Proficiency)
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/jessicammeng)
+- [Portfolio](https://jessmengg.netlify.app/)
+
+---
+
+## 📁 Featured Projects
+
+Check out my portfolio and some favorite projects:
+- [my-portfolio](https://github.com/jessmengg/my-portfolio)
+- [jessmengg](https://github.com/jessmengg/jessmengg)
+- [me50/jessmengg](https://github.com/me50/jessmengg)
+
+---
+
+Thanks for reading! 😊
