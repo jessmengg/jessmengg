@@ -1,7 +1,8 @@
 # Hi, I'm Jess Meng! 👋
 
-🎓 **Second-year Student at Northeastern University**  
+🎓 **Second-year student at Northeastern University**  
 💻 **Majoring in Computer Science & Business**
+❤️ Interests include UI/UX, marketing, and product management
 
 ---
 
