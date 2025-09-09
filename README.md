@@ -42,6 +42,7 @@ Check out my portfolio and some favorite projects:
 - [my-portfolio](https://github.com/jessmengg/my-portfolio)
 - [jessmengg](https://github.com/jessmengg/jessmengg)
 - [me50/jessmengg](https://github.com/me50/jessmengg)
+- [spotify-design](https://github.com/jessmengg/spotify-design)
 
 ---
 
