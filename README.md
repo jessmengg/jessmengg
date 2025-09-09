@@ -43,6 +43,8 @@ Check out my portfolio and some favorite projects:
 - [jessmengg](https://github.com/jessmengg/jessmengg)
 - [me50/jessmengg](https://github.com/me50/jessmengg)
 - [spotify-design](https://github.com/jessmengg/spotify-design)
+- [waffle-wagon-website](https://wafflewagonnj.wixsite.com/23-24)
+- [aacc-website](https://contactwphsaacc.wixsite.com/23-24)
 
 ---
 
