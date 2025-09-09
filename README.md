@@ -45,6 +45,8 @@ Check out my portfolio and some favorite projects:
 - [spotify-design](https://github.com/jessmengg/spotify-design)
 - [waffle-wagon-website](https://wafflewagonnj.wixsite.com/23-24)
 - [aacc-website](https://contactwphsaacc.wixsite.com/23-24)
+- [calendar](https://github.khoury.northeastern.edu/morganwills23/MorganJessRepo) (*private unless requested*)
+- [photo-editor](https://github.com/ifeadeyosoye/AE3-starting-point-v4) (*private unless requested*)
 
 ---
 
