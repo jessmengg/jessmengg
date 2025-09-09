@@ -6,17 +6,13 @@
 ---
 
 ## 🛠️ Skills
-
-- **Languages:** Java, JavaScript, Python, Kotlin, HTML, CSS
-- **Frameworks & Tools:** React.js, Node.js
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## 📚 Currently Learning
 
-- Exploring new tech stacks and frameworks
-- Developing projects that blend computer science with business insights
 - SQL and databases
+- Creating projects
 
 ---
 
@@ -35,11 +31,7 @@ Interests include UI/UX, marketing, and product management
 ---
 
 ## 🔗 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/jessicammeng)
-- [Portfolio](https://jessmengg.netlify.app/)
-- [Email](jessicammeng@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessicammeng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jessicammeng@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jessmengg.netlify.app/)
 ---
 
 ## 📁 Featured Projects
@@ -52,3 +44,4 @@ Check out my portfolio and some favorite projects:
 ---
 
 Thanks for reading! 😊
+
