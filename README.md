@@ -20,15 +20,14 @@
 
 ## 🩷 Hobbies & Interests
 
-Interests include UI/UX, marketing, and product management
+Interests include UI/UX, web dev, marketing, and product management
 
 - Reading 📖
 - Running 🏃‍♀️
 - Eating 🍜 (or drinking matcha!!!)
 - Languages:  
   - English (Fluent)  
-  - Chinese (Working Proficiency)  
-  - Spanish (Limited Working Proficiency)
+  - Chinese (Working Proficiency)
 
 ---
 
