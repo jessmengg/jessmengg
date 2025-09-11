@@ -14,7 +14,7 @@
 ## 📚 Currently Learning
 
 - SQL and databases
-- Creating projects
+- Creating projects using React and Node.js
 
 ---
 
