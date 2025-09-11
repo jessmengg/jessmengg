@@ -40,13 +40,11 @@ Interests include UI/UX, marketing, and product management
 
 Check out my portfolio and some favorite projects:
 - [my-portfolio](https://github.com/jessmengg/my-portfolio)
-- [jessmengg](https://github.com/jessmengg/jessmengg)
-- [me50/jessmengg](https://github.com/me50/jessmengg)
 - [spotify-design](https://github.com/jessmengg/spotify-design)
 - [waffle-wagon-website](https://wafflewagonnj.wixsite.com/23-24)
 - [aacc-website](https://contactwphsaacc.wixsite.com/23-24)
-- [calendar](https://github.khoury.northeastern.edu/morganwills23/MorganJessRepo) (*private unless requested*)
-- [photo-editor](https://github.com/ifeadeyosoye/AE3-starting-point-v4) (*private unless requested*)
+- [calendar](https://github.khoury.northeastern.edu/morganwills23/MorganJessRepo) (*available upon request*)
+- [photo-editor](https://github.com/ifeadeyosoye/AE3-starting-point-v4) (*available upon reauest*)
 
 ---
 
