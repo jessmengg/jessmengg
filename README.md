@@ -1,9 +1,9 @@
 # Hi, I'm Jess Meng! 👋
 
 🎓 **Second-year student at Northeastern University**  
-💻 **Majoring in Computer Science & Business (Marketing)**
+💻 **Majoring in Computer Science + Business Administration (Marketing)**
 
-🌏 I'm currently seraching for a January - August 2026 SWE co-op, preferably in Asia!
+🌏 I'm currently looking for a Jan-Aug SWE/PM co-op!
 
 ---
 
