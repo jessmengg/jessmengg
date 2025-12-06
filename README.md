@@ -3,7 +3,7 @@
 🎓 **Second-year student at Northeastern University**  
 💻 **Majoring in Computer Science + Business Administration (Marketing)**
 
-🌏 I'm currently looking for a Jan-Aug SWE/PM co-op!
+🌏 I'm currently looking for a May-Dec SWE/PM co-op!
 
 ---
 
