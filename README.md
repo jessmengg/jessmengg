@@ -8,22 +8,14 @@
 ---
 
 ## 🛠️ Skills
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=openjdk&logoColor=e87315)
+![MySQL](https://img.shields.io/badge/MySQL-11668e?style=for-the-badge&logo=mysql&logoColor=e59115)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-37acdc?style=for-the-badge&logo=css) 
+![JavaScript](https://img.shields.io/badge/JavaScript-e7a328?style=for-the-badge&logo=javascript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
----
-
-## 📚 Currently Learning
-
-- SQL and databases
-- Creating projects using React and Node.js
-
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ---
 
 ## 🩷 Hobbies & Interests
@@ -40,7 +32,9 @@ Interests include UI/UX, web dev, marketing, and product management
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessicammeng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jessicammeng@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jessmengg.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessicammeng) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meng.je@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f279c2)](https://jessmengg.netlify.app/)
 ---
 
 ## 📁 Featured Projects
