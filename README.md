@@ -41,7 +41,7 @@ Interests include UI/UX, web dev, marketing, and product management
 
 Check out my portfolio and some favorite projects:
 - [my-portfolio](https://github.com/jessmengg/my-portfolio)
-- [spotify-design](https://github.com/jessmengg/spotify-design)
+- [snoopify](https://github.com/jessmengg/snoopify)
 - [matchamap](https://github.com/jessmengg/matchamap)
 - [waffle-wagon-website](https://wafflewagonnj.wixsite.com/23-24)
 - [aacc-website](https://contactwphsaacc.wixsite.com/23-24)
